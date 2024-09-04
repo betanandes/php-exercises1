@@ -1,1 +1,1 @@
-# Alguns exercicios de php praticados por mim.
+Alguns exercicios de php praticados por mim.
